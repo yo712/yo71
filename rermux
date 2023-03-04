@@ -1,0 +1,3 @@
+git remote add origin https://github.com/yo712/yo71.git
+ git الفرع -M main 
+git push -u origin main
